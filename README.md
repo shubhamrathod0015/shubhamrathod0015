@@ -100,7 +100,7 @@
 ###
 
 <div align="left">
-  <img src="https://tse2.mm.bing.net/th/id/OIP.pxbIoRcsFmnIqyvtK0cMdgHaEG?pid=Api&P=0&h=180" height="40" alt="amazonwebservices logo"  />
+  <img src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
