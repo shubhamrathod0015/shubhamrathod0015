@@ -17,8 +17,8 @@ jobs:
         run: |
           TODAY=$(date +"%Y-%m-%d %H:%M:%S")
           echo "## Last updated: $TODAY" > last_update.md
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Shubham Rathod"
+          git config user.email "shubhamrathod0015@gmail.com"
           git add last_update.md
           git commit -m "Update last updated timestamp: $TODAY" || echo "No changes"
           git push
