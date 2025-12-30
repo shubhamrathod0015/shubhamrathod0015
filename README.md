@@ -145,7 +145,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrathod0015&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"  />
+  <img src="https://camo.githubusercontent.com/c15edf4081abd639a73dc18c9d14c882ee774adaabc085e7b5cc0b2d45d90e38/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6d4e77724268656a6b4b394546503530342f67697068792e676966" height="220" alt="streak graph"  />
 </div>
 
 ###
